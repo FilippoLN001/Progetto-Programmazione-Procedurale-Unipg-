@@ -6,7 +6,7 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 This repository contains the code for the Progetto Programmazione Procedurale project at the University of Perugia. The project is implemented in C and consists of three files.
@@ -37,6 +37,3 @@ Create a new branch (git checkout -b feature)
 Make changes and commit (git commit -m 'Add feature')
 Push to the branch (git push origin feature)
 Create a pull request
-
-### License
-Replace the placeholder text such as `[C Compiler](#link-to-c-compiler)` with relevant information. Additionally, update the sections like "Description," "Usage," and "Contributing" with project-specific details. Consider adding badges, such as a license badge, for a more visually appealing README.
